@@ -22,3 +22,24 @@ body{
     font-size: 18px;
     margin-left: 20px;
 }
+
+#desc{
+    text-align: center;
+}
+#email{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 10px;
+    margin-bottom: 2px;
+}
+
+p #submit{
+    color: black;
+    background: rgb(230, 199, 25);
+    padding: 5px 10px;
+    border: 1px solid rgb(230, 199, 25);
+    font-weight:1000;
+    position: relative;
+    left: 45.25%;
+}
